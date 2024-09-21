@@ -1,0 +1,47 @@
+body {
+  background-image: url("../img/TotNghiep1.jpg");
+  background-size: 100%;
+  background-repeat: repeat-y;
+  font-family: "Fredoka One", cursive;
+  color: white;
+}
+
+.img_banner_hpbd {
+  background-image: url("../img/TotNghiep2.jpg");
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: auto;
+}
+
+h1.heading {
+  font-family: "Pacifico", cursive;
+}
+
+.jumbotron {
+  opacity: 0.4;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+
+h4 {
+  font-family: "Nunito Sans", sans-serif;
+}
+
+.bg-snow-tranparent-normal {
+  opacity: 1;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+
+.bg-snow-tranparent-hidden {
+  opacity: 0.8;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+
+.footer {
+  height: 250px;
+  font-size: 20px;
+  background-color: darkblue;
+  color: skyblue;
+  padding-top: 100px;
+  opacity: 0.5;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+}
